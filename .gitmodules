@@ -1,0 +1,3 @@
+[submodule "fastapi-sqlalchemy-template"]
+	path = fastapi-sqlalchemy-template
+	url = ./fastapi-sqlalchemy-template
